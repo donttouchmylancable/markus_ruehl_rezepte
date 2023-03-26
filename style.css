@@ -1,0 +1,25 @@
+body{
+    background:black;
+}
+h1{
+    color:white;
+}
+a{
+    color:white;
+    background:grey;
+}
+img{
+    padding:5px;
+    border:5px;
+}
+ul,ol,p,h2{
+    color:white;
+    padding:20px;
+    background:grey;
+}
+img{
+    width:560px;
+}
+p,iframe{
+    background:black;
+}
